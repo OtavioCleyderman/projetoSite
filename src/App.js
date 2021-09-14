@@ -19,10 +19,10 @@ function App() {
       <main>
         <Switch>
           <Route path="/" exact component={Home} />
-          <Route path="/mais-vistos" component={MaisVistos} />
-          <Route path="/lancamentos" component={Lancamentos} />
-          <Route path="/descubra" component={Descubra} />
-          <Route path="/cadastro" component={Cadastro} />
+          <Route path="/mais-vistos" exact component={MaisVistos} />
+          <Route path="/lancamentos" exact component={Lancamentos} />
+          <Route path="/descubra" exact component={Descubra} />
+          <Route path="/cadastro" exact component={Cadastro} />
         </Switch>
       </main>
       <Footer />
