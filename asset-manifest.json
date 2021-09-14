@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "/static/js/main.ebda9a52.chunk.js",
+    "main.js.map": "/static/js/main.ebda9a52.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.eba47d11.js",
+    "runtime-main.js.map": "/static/js/runtime-main.eba47d11.js.map",
+    "static/js/2.9646895f.chunk.js": "/static/js/2.9646895f.chunk.js",
+    "static/js/2.9646895f.chunk.js.map": "/static/js/2.9646895f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.9646895f.chunk.js.LICENSE.txt": "/static/js/2.9646895f.chunk.js.LICENSE.txt",
+    "static/media/86.cb483c86.jpg": "/static/media/86.cb483c86.jpg",
+    "static/media/AnimesDesktop.4c0aa048.png": "/static/media/AnimesDesktop.4c0aa048.png",
+    "static/media/JoJo.7c43fb7a.jpg": "/static/media/JoJo.7c43fb7a.jpg",
+    "static/media/Kimetsu.ed054fd2.jpg": "/static/media/Kimetsu.ed054fd2.jpg",
+    "static/media/Mushoku.20f6c8ce.jpg": "/static/media/Mushoku.20f6c8ce.jpg",
+    "static/media/OnePiece.4232a486.jpg": "/static/media/OnePiece.4232a486.jpg",
+    "static/media/attack-on-titan.62051641.jpg": "/static/media/attack-on-titan.62051641.jpg",
+    "static/media/boruto.375104c1.jpg": "/static/media/boruto.375104c1.jpg",
+    "static/media/expelled.35477418.jpg": "/static/media/expelled.35477418.jpg",
+    "static/media/jujutsu-kaisen.68f972c1.jpg": "/static/media/jujutsu-kaisen.68f972c1.jpg",
+    "static/media/orange.ac217581.jpg": "/static/media/orange.ac217581.jpg",
+    "static/media/seirei.813ee724.jpg": "/static/media/seirei.813ee724.jpg",
+    "static/media/ushio.de59575e.jpg": "/static/media/ushio.de59575e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eba47d11.js",
+    "static/js/2.9646895f.chunk.js",
+    "static/js/main.ebda9a52.chunk.js"
+  ]
+}
