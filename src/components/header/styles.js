@@ -27,6 +27,7 @@ export const Ul = styled.ul`
 
 export const Li = styled.li`
     display: flex;
+    font-size: 2rem;
     margin: 0 1rem;
     padding: 0.5rem;
     border-radius: 0.8rem;
@@ -37,7 +38,7 @@ export const Li = styled.li`
 
     &:hover{
         background: #FC773A;
-        font-weight: bold 
+        font-weight: bold;
         -webkit-transition: 0.5s ease-out;
         -moz-transition: 0.5s ease-out;
         -o-transition: 0.5s ease-out;
@@ -45,7 +46,3 @@ export const Li = styled.li`
     }
 `;
 
-export const Link = styled.a`
-    color: #000;
-    font-size: 2rem;
-`;

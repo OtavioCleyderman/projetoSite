@@ -13,7 +13,7 @@ export const Container = styled.div`
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    position: relative;
+    position: fixed;
     bottom: 0;
     background: #FC7B3A;
 `;
